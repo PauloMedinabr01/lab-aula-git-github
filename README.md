@@ -11,14 +11,23 @@ foi criada para ser utilizada em aulas práticas de Git e GitHub.
 
 Exibe uma lista de alunos em uma tabela. Cada aluno é representado por um ID, nome e email.
 
+## Instale o VS Code:
+
+Se você ainda não tem o Visual Studio Code instalado, siga as instruções em https://code.visualstudio.com/download para
+instalar na sua máquina.
+
+## Instale a extensão Live Server:
+
+Instalar a extensão Live Server no Visual Studio Code para visualizar a página web.
+
 ## Instale o Git:
 
 Se você ainda não tem o Git instalado, siga as instruções em https://git-scm.com/downloads para instalar o Git na sua
 máquina.
 
-## Abra o terminal:
+## Abra o terminal do Visual Studio Code:
 
-Abra o terminal de sua preferência.
+Abra o terminal do Visual Studio Code para executar os comandos do Git.
 
 ## Configure o Git:
 
