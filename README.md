@@ -76,6 +76,18 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
+## Git pull para atualizar o repositório:
+
+```bash
+git pull
+```
+
+## Git Fetch para trazer as branches do repositório remoto:
+
+```bash
+git fetch
+```
+
 ## Abra o arquivo index.html em um navegador:
 
 Abra o arquivo index.html em qualquer navegador web para visualizar a lista de alunos.
@@ -95,6 +107,14 @@ Altere o arquivo index.html para adicionar um novo aluno à lista.
 
 ```bash
 git add .
+```
+
+## Verifique o status das alterações
+
+Verifique se as alterações foram adicionadas ao stage:
+
+```bash
+git status
 ```
 
 Faça o commit das suas alterações
