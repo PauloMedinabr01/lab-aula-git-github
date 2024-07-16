@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-
 Este é um projeto exemplo utilizado para demonstrar o uso básico do Git e GitHub.
 
 ## Descrição
@@ -150,6 +149,15 @@ git push origin minha-feature
 ## Crie um Pull Request no GitHub:
 
 Abra um Pull Request para revisão das alterações e posterior merge.
+
+## Referências
+
+- [GitSCM](https://git-scm.com/)
+- [Git Documentation](https://git-scm.com/doc)
+- [GitHub Cheat Sheet](https://training.github.com/)
+- [Visual Git Cheat Sheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
+- [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Autor: Paulo Coelho
 
