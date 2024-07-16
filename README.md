@@ -138,7 +138,8 @@ Abra um Pull Request para revisão das alterações e posterior merge.
 
 ## Autor
 
-Contato: seu-email@example.com
-Licença
+### Contato: paulomedinabr01@gmail.com
+
+## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
