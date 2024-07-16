@@ -21,6 +21,8 @@ Este é um projeto exemplo utilizado para demonstrar o uso básico do Git e GitH
 Este projeto consiste em uma página web simples que lista alunos, onde cada aluno possui um ID, nome e email. A página
 foi criada para ser utilizada em aulas práticas de Git e GitHub.
 
+<img src="img.png">
+
 ## Funcionalidades
 
 Exibe uma lista de alunos em uma tabela. Cada aluno é representado por um ID, nome e email.
