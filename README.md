@@ -163,6 +163,9 @@ Abra um Pull Request para revisão das alterações e posterior merge.
 
 ## Autor: Paulo Coelho
 
+- [Dev Paulo Coelho](https://devpaulocoelho.com/)
+- [Credly](https://www.credly.com/users/paulo-henrique-medina-coelho)
+
 ### Contato:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomedinabr01@gmail.com)
