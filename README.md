@@ -1,4 +1,23 @@
+<div align="center">
+
+[![PauloMedinabr01 - lab-aula-git-github](https://img.shields.io/static/v1?label=PauloMedinabr01&message=lab-aula-git-github&color=blue&logo=github)](https://github.com/PauloMedinabr01/lab-aula-git-github "Go to GitHub repo")
+[![stars - lab-aula-git-github](https://img.shields.io/github/stars/PauloMedinabr01/lab-aula-git-github?style=social)](https://github.com/PauloMedinabr01/lab-aula-git-github)
+[![forks - lab-aula-git-github](https://img.shields.io/github/forks/PauloMedinabr01/lab-aula-git-github?style=social)](https://github.com/PauloMedinabr01/lab-aula-git-github)
+
+</div>
+
 # Lab Aula Git e GitHub
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
 
 Este é um projeto exemplo utilizado para demonstrar o uso básico do Git e GitHub.
 
@@ -136,10 +155,18 @@ git push origin minha-feature
 
 Abra um Pull Request para revisão das alterações e posterior merge.
 
-## Autor
+## Autor: Paulo Coelho
 
-### Contato: paulomedinabr01@gmail.com
+### Contato:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulomedinabr01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulohcoelho/)
+
+## Outras ferramentas para praticar Git.
+
+[Visualizing Git](https://git-school.github.io/visualizing-git/)
 
 ## Licença
+
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
