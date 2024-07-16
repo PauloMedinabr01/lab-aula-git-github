@@ -173,7 +173,7 @@ Abra um Pull Request para revisão das alterações e posterior merge.
 
 ## Outras ferramentas para praticar Git.
 
-[Visualizing Git](https://git-school.github.io/visualizing-git/)
+- [Visualizing Git](https://git-school.github.io/visualizing-git/)
 
 ## Licença
 
