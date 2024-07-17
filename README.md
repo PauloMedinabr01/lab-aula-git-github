@@ -187,6 +187,7 @@ Abra um Pull Request para revisão das alterações e posterior merge.
 
 - [Dev Paulo Coelho](https://devpaulocoelho.com/)
 - [Credly](https://www.credly.com/users/paulo-henrique-medina-coelho)
+- [Microsoft Learn](https://learn.microsoft.com/pt-br/users/paulohenriquemedinacoelho/transcript/d9w2s0gyqmz2z87?tab=credentials-tab)
 
 ### Contato:
 
