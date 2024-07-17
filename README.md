@@ -21,7 +21,7 @@ Este é um projeto exemplo utilizado para demonstrar o uso básico do Git e GitH
 Este projeto consiste em uma página web simples que lista alunos, onde cada aluno possui um ID, nome e email. A página
 foi criada para ser utilizada em aulas práticas de Git e GitHub.
 
-<img src="img.png">
+<img src="index.png">
 
 ## Funcionalidades
 
@@ -35,6 +35,13 @@ instalar na sua máquina.
 ## Instale a extensão Live Server:
 
 Instalar a extensão Live Server no Visual Studio Code para visualizar a página web.
+
+<img src="live_server.png">
+
+Para iniciar o servidor, clique com o botão direito do mouse no arquivo index.html e selecione a opção "Open with Live
+Server".
+
+<img src="iniciar_servidor.png">
 
 ## Instale o Git:
 
