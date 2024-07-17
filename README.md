@@ -82,9 +82,25 @@ para gerar uma chave SSH e adicioná-la à sua conta do GitHub.
 ssh-keygen -t ed25519 -C "email_cadastrado_no_github"
 ```
 
+Você será solicitado a informar um local para salvar a chave. Pressione Enter para aceitar o local padrão e enter
+novamente até que a chave seja gerada.
+A chave será salva em um arquivo chamado id_ed25519.pub no diretório .ssh do seu perfil de usuário:
+
+- C:\Users\seu_usuario\.ssh\id_ed25519.pub
+
+Abra o arquivo id_ed25519.pub com um editor de texto e copie todo o conteúdo da chave.
+
 ## Crie uma conta no GitHub:
 
 Se você ainda não tem uma conta no GitHub, acesse https://github.com e crie uma conta.
+
+## Adicione a chave SSH à sua conta do GitHub:
+
+Acesse a página de configurações de chaves SSH em https://github.com/settings/profile e clique em "New SSH key".
+
+<img src="new_ssh.png">
+
+Cole a chave SSH no campo "Key" e clique em "Add SSH key".
 
 Clone o repositório:
 
