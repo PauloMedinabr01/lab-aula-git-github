@@ -50,17 +50,16 @@ Abra o terminal do Visual Studio Code para executar os comandos do Git.
 Configure informações de usuário para todos os repositórios locais
 
 ```bash
-git config --global user.name "[nome]"
-```
-
-Configura o nome que você quer ligado as suas transações de
-commit
-
-```bash
-git config --global user.email "[endereco-de-email]"
+git config --global user.name "usuario_do_github"
 ```
 
 Configura o email que você quer ligado as suas transações de commit
+
+```bash
+git config --global user.email "email_cadastrado_no_github"
+```
+
+Configura o Git para colorir automaticamente a saída no terminal
 
 ```bash
 git config --global color.ui auto
@@ -73,7 +72,7 @@ em https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/gener
 para gerar uma chave SSH e adicioná-la à sua conta do GitHub.
 
 ```bash
-ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "email_cadastrado_no_github"
 ```
 
 ## Crie uma conta no GitHub:
